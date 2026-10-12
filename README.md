@@ -58,7 +58,7 @@ Leading commercial Customer Service Management and ticketing software platforms,
 
 ## 💻 Open-Source GitHub Projects
 
-Curated self-hosted and open-source customer service management software, helpdesks, and shared inboxes, sorted by GitHub stars (descending) 🌟.
+Curated self-hosted and open-source customer service management software, helpdesks, and shared inboxes, sorted by GitHub_Stars (descending) 🌟.
 
 | Project | 📜 License | 🛠️ Tech Stack | 💡 Highlights |
 | :--- | :--- | :--- | :--- |
@@ -98,7 +98,7 @@ For engineering teams constructing internal or self-hosted support architectures
 Contributions are always welcome! 💖
 
 1. Fork this repository 🍴.
-2. Add or update entries in `README.md`. Ensure SaaS entries include verified starting prices, free tier limits, and valuation/revenue indicators. For open-source tools, include the official GitHub repo and star badge.
+2. Add or update entries in `README.md`. Ensure SaaS entries include verified starting prices, free tier limits, and valuation/revenue indicators. For open-source tools, include the official GitHub repo and Stars_Badge.
 3. Submit a pull request with a concise summary of changes 🚀.
 
 ---
